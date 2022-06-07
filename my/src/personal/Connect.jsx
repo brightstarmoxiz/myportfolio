@@ -26,7 +26,7 @@ const Connect =() => {
         }}>
         <p>please enter a correct email</p>
       </div>
-    );
+    ); 
   };
  
 
